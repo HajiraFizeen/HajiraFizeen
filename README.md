@@ -17,7 +17,6 @@ I am pursuing a Bachelor of Computer Applications (BCA) in Cybersecurity and dev
 - PortSwigger Web Security Academy: Path Traversal and Authentication Vulnerability
 - Nmap: Network scanning and service identification
 
-*These entries should only remain if I have personally completed or practiced the corresponding work.*
 
 ### Featured Projects
 - [Cybersecurity Labs](https://github.com/HajiraFizeen/cybersecurity-labs)
