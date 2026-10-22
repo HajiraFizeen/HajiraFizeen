@@ -16,7 +16,6 @@ cybersecurity, penetration testing, networking, Linux, and Python.
 - SQL
 - Metasploit
 - Web Security
-- Wireshark
 
 ---
 
