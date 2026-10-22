@@ -1,86 +1,32 @@
 # Hi, I'm Hajira Fizeen 👋
 
-### 🛡️ BCA Cybersecurity Student | Aspiring Cybersecurity Analyst
+## Cybersecurity Student | Aspiring Security Analyst
 
-I'm a BCA Cybersecurity student building practical skills in
-cybersecurity, penetration testing, networking, Linux, and Python.
+I am pursuing a Bachelor of Computer Applications (BCA) in Cybersecurity and developing practical skills in information security through hands-on labs and personal projects.
 
----
+### Skills I'm Developing
+- Networking fundamentals and TCP/IP
+- Linux and command-line tools
+- Nmap scanning and service enumeration
+- Web application security testing
+- Python scripting and SQL fundamentals
+- Security documentation and vulnerability remediation
 
-## 🔐 Cybersecurity Skills
+### Hands-On Practice
+- TryHackMe: Mr. Robot and Chocolate Factory labs
+- PortSwigger Web Security Academy: Path Traversal and Authentication Vulnerability
+- Nmap: Network scanning and service identification
 
-- Linux
-- Networking
-- Nmap
-- Python
-- SQL
-- Metasploit
-- Web Security
+*These entries should only remain if I have personally completed or practiced the corresponding work.*
 
----
+### Featured Projects
+- [Cybersecurity Labs](https://github.com/HajiraFizeen/cybersecurity-labs)
+- [Python Security Tools](https://github.com/HajiraFizeen/python-security-tools)
+- [Cybersecurity Notes](https://github.com/HajiraFizeen/cybersecurity-notes)
 
-## 🧪 Hands-on Practice
+### Career Goal
+Seeking an entry-level cybersecurity opportunity where I can apply my technical foundations, continue learning, and contribute to security operations and vulnerability assessment.
 
-- Network Enumeration
-- Port & Service Enumeration
-- Web Application Security
-- Linux Privilege Escalation
-- Vulnerability Assessment
-- Penetration Testing
-- CTFs and Security Labs
-
----
-
-## 🚀 Currently Learning
-
-- Penetration Testing
-- Web Application Security
-- Privilege Escalation
-- Security Monitoring
-- Python for Cybersecurity
-
----
-
-## 🛠️ Tools
-
-Kali Linux • Nmap • Gobuster • WPScan • SQLMap  
-Metasploit • Wireshark • Git • Linux
-
----
-
-## 📂 Featured Projects
-
-### 🔹 Cybersecurity Labs
-Hands-on cybersecurity labs, notes, methodologies, and findings.
-
-### 🔹 Python Security Tools
-Educational security tools developed with Python.
-
-### 🔹 Network Reconnaissance
-Projects focused on network discovery and enumeration.
-
----
-
-## 🎓 Education
-
-**BCA in Cybersecurity**  
-Jain University  
-Expected Graduation: 2028
-
----
-
-## 📚 Learning Platforms
-
-- TryHackMe
-- CTFs
-- Cybersecurity Training Labs
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](www.linkedin.com/in/hajira-fizeen-84a320382)
-
----
-
-> 🔎 Learning cybersecurity one lab at a time.
+### Connect
+- LinkedIn: www.linkedin.com/in/hajira-fizeen-84a320382
+- Email:hajirafaizeen4263@gmail.com
